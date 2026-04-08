@@ -1,39 +1,91 @@
-# Hello 👋, I'm Manpreet Singh
-### Full Stack Developer
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Manpreet%20Singh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%E2%80%A2%20UI%20Craftsman%20%E2%80%A2%20Open%20Source%20Enthusiast&descAlignY=52&descSize=16"/>
 
-<img align="right" height="300" style="margin-left:30px;" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" />
+</div>
 
-I specialize in Web Development, JavaScript and Design. I love to network, join new communities and add value ✨
+<img align="right" width="280" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" />
 
-### Contact Me
+### 👋 Hey there! I'm Manpreet
+
+I'm a **Full Stack Developer** from India 🇮🇳, passionate about crafting clean web experiences and scalable applications.
+
+- 🔭 Currently building exciting projects with **Next.js & Node.js**
+- 🌱 Always learning and exploring new technologies
+- 💬 Ask me about **React, JavaScript, UI/UX Design**
+- ⚡ I love networking, joining new communities & adding value ✨
+- 📫 Reach me at my [portfolio](https://mpji-portfolio.vercel.app/)
+
+<br clear="right"/>
+
 ---
-<p><a href="https://linkedin.com/in/https://www.linkedin.com/in/manpreetsingh2004" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://mpji-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Website-%23FF7139.svg?&style=flat-square&logo=Firefox&logoColor=white" alt="Website"></a> </p>
 
-### Skills
----
+### 🌐 Connect With Me
 
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="node" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>&nbsp;
-<img src="https://camo.githubusercontent.com/a739cc726be1242578d99c1507c43b7323fe4b74e2f04e3cf7b16fbe66b1893d/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7461696c77696e646373732f7461696c77696e646373732d6f726967696e616c2d776f72646d61726b2e737667" alt="tailwind" width="40" height="40"/>&nbsp;
+  <a href="https://www.linkedin.com/in/manpreetsingh2004" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>&nbsp;
+  <a href="https://mpji-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23FF7139.svg?style=for-the-badge&logo=Firefox&logoColor=white" alt="Portfolio"/>
+  </a>&nbsp;
+  <a href="https://github.com/mpsinghji" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
 
+---
 
+### 🛠️ Tech Stack
 
-### GitHub Stats
+**Frontend**
 
-<img src="https://github-readme-stats.vercel.app/api?username=mpsinghji&show_icons=true&count_private=true&theme=radical" alt="GitHub İstatistikleri" />
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpsinghji&layout=compact&theme=radical" alt="En Çok Kullanılan Diller" />
+**Backend & Database**
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mpsinghji&theme=radical" alt="GitHub Streak" />
+![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=mpsinghji&show_icons=true&count_private=true&theme=tokyonight&border_radius=10&hide_border=true" alt="GitHub Stats"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=mpsinghji&theme=tokyonight&border_radius=10&hide_border=true" alt="GitHub Streak"/>
+
+<img width="40%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mpsinghji&layout=compact&theme=tokyonight&border_radius=10&hide_border=true" alt="Top Languages"/>
+
+</div>
+
+---
+
+### 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mpsinghji&theme=tokyo-night&hide_border=true&radius=8" alt="Activity Graph"/>
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=mpsinghji&color=blueviolet&style=for-the-badge&label=Profile+Views)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+
+</div>
